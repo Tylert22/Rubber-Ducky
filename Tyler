@@ -1,0 +1,22 @@
+<style>
+  body { 
+    background-color: pink;
+  }
+  
+  h1 {
+    color: green;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 18px;
+    color: black;
+    font-family: Lucida Console;
+  }
+</style>
+
+<h1>Tyler</h1>
+<img width="200" src="https://m.media-amazon.com/images/I/71MUT46AE1L._AC_SL1500_.jpg">
+<p>This is Tyler. He is a very crucial asset in my life. I tend to have anger management issues, and that is where Tyler comes in. He is able to take an infinite number of punches and kicks without ever complaining. He may seem a little deformed, but I am here to assure you that he is doing alright.</p>
+
+<a href="https://en.wikipedia.org/wiki/Gesu_no_Kiwami_Otome"> Favorite Childhood Band </a>
